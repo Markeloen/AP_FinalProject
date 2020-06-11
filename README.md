@@ -1,3 +1,3 @@
 # AP_FinalProject
 Taz Player
-If something wnet wrong go note.txt :)
+If something went wrong go note.txt :)
